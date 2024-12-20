@@ -1,0 +1,12 @@
+{
+  "java.compile.nullAnalysis.mode": "disabled",
+  "workbench.colorCustomizations": {
+    "[One Dark Pro]": {
+      "editor.background": "#0f0f0f",
+      "sideBar.background": "#141414",
+      "terminal.background": "#141414",
+      "panel.background": "#141414",
+      "activityBar.background": "#141414"
+    }
+  }
+}
