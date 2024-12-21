@@ -1,3 +1,4 @@
+# Help and build files
 HELP.md
 .gradle
 build/
@@ -35,7 +36,6 @@ out/
 
 ### VS Code ###
 .vscode/
-### application.properties ###
-/src/main/resources/application.properties
-/src/main/resources/application-*.properties
 
+### Application Properties ###
+**/application.properties
