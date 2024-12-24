@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BoardApplication",
+            "request": "launch",
+            "mainClass": "com.springboot.biz.BoardApplication",
+            "projectName": "Board"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Debug Spring Boot App",
+            "mainClass": "com.example.Application",
+            "projectName": "my-spring-boot-project",
+            "console": "internalConsole",
+            "vmArgs": "-Dspring.output.ansi.enabled=always"
+        }
+    ]
+}
